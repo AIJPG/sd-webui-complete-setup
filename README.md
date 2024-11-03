@@ -8,10 +8,7 @@ Jupyter notebook for Stable Diffusion WebUI and Stable Diffusion WebUI Forge.
 
 ***
 
-**Buy Me a Coffee**  
-<a href="https://sociabuzz.com/AIJPG/tribe" target="_blank">
-    <img src="https://storage.sociabuzz.com/storage/landingpage/img/sociabuzz-logo.png" height="35px" style="border:0;height:35px;">
-</a>
+
 
 <br>
 
