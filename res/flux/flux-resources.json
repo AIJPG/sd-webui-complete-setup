@@ -2,7 +2,7 @@
     "VAE": [
         {
             "id": "ae",
-            "name": "ae.safetensors",
+            "name": "ae.safetensors (จำเป็นต้องมี)",
             "homepage": [
                 {
                     "name": "",
@@ -17,7 +17,7 @@
     "TextEncoder": [
         {
             "id": "clip_l",
-            "name": "CLIP-L",
+            "name": "CLIP-L (จำเป็นต้องมี)",
             "homepage": [
                 {
                     "name": "",
@@ -30,7 +30,7 @@
         },
         {
             "id": "t5xxl_fp16",
-            "name": "t5xxl-fp16",
+            "name": "t5xxl-fp16(จำเป็นต้องมี)",
             "homepage": [
                 {
                     "name": "",
@@ -43,7 +43,7 @@
         },
         {
             "id": "t5xxl_fp8_e4m3fn",
-            "name": "t5xxl-fp8-e4m3fn",
+            "name": "t5xxl-fp8-e4m3fn(จำเป็นต้องมี)",
             "homepage": [
                 {
                     "name": "",

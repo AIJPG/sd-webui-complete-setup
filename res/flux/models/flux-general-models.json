@@ -70,5 +70,54 @@
                 "url": "https://huggingface.co/lllyasviel/FLUX.1-dev-gguf/resolve/main/flux1-dev-Q8_0.gguf"
             }
         ]
+    },
+
+    {
+        "id": "MODEL_FLUX",
+        "name": "MODEL FLUX",
+        "homepage": [
+            {
+                "name": "CivitAI",
+                "url": "https://civitai.com/"
+            },
+            {
+                "name": "HuggingFace",
+                "url": "https://huggingface.co/"
+            }
+        ],
+        "variants": [
+            {
+                "version": "RyuzakiMix_FP16",
+                "url": "https://huggingface.co/datasets/fluksongpon/AIJPG/resolve/main/RyuzakiMix.safetensors"
+            },
+
+            {
+                "version": "TrueReality_fp8",
+                "url": "https://huggingface.co/datasets/fluksongpon/AIJPG/resolve/main/TrueReality.safetensors"
+            },
+
+            {
+                "version": "RyuzakiMix_flux_beta_fp8",
+                "url": "https://huggingface.co/datasets/fluksongpon/AIJPG/resolve/main/RyuzakiMix_flux_beta_fp8.safetensors"
+            },
+            
+            {
+                "version": "fp8 (16GB)",
+                "url": "https://huggingface.co/lllyasviel/flux1_dev/resolve/main/flux1-dev-fp8.safetensors"
+            },
+            
+            {
+                "version": "fp8 (16GB)",
+                "url": "https://huggingface.co/lllyasviel/flux1_dev/resolve/main/flux1-dev-fp8.safetensors"
+            },
+            
+            {
+                "version": "fp8 (16GB)",
+                "url": "https://huggingface.co/lllyasviel/flux1_dev/resolve/main/flux1-dev-fp8.safetensors"
+            }
+            
+
+            
+        ]
     }
 ]
