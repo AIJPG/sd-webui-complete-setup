@@ -10,7 +10,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/AIJPG/vae-flux/resolve/main/ae.safetensors"
+                "https://huggingface.co/datasets/fluksongpon/AIJPG/resolve/main/ae.safetensors"
             ]
         }
     ],
