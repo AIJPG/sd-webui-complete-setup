@@ -10,7 +10,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/lora-effects/resolve/main/background_details.safetensors"
+                "https://huggingface.co/AIJPG/lora-effects/resolve/main/background_details.safetensors"
             ]
         },
         {
@@ -23,7 +23,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/lora-effects/resolve/main/depth_of_field_slider.safetensors"
+                "https://huggingface.co/AIJPG/lora-effects/resolve/main/depth_of_field_slider.safetensors"
             ]
         },
         {
@@ -57,7 +57,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/lora-effects/resolve/main/hands_sd15_v3.safetensors"
+                "https://huggingface.co/AIJPG/lora-effects/resolve/main/hands_sd15_v3.safetensors"
             ]
         },
         {
@@ -70,7 +70,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/lora-effects/resolve/main/lowRA.safetensors"
+                "https://huggingface.co/AIJPG/lora-effects/resolve/main/lowRA.safetensors"
             ]
         }
     ],
@@ -84,7 +84,7 @@
                     "url": "https://civitai.com/models/8860"
                 }
             ],
-            "url": "https://huggingface.co/ffxvs/scg-emotion-pack"
+            "url": "https://huggingface.co/AIJPG/scg-emotion-pack"
         },
         {
             "id": "scgToolkit",
@@ -95,7 +95,7 @@
                     "url": "https://civitai.com/models/8551"
                 }
             ],
-            "url": "https://huggingface.co/ffxvs/scg-toolkit"
+            "url": "https://huggingface.co/AIJPG/scg-toolkit"
         },
         {
             "id": "ageSlider",
@@ -106,7 +106,7 @@
                     "url": "https://civitai.com/models/65214"
                 }
             ],
-            "url": "https://huggingface.co/ffxvs/zovya-age-slider"
+            "url": "https://huggingface.co/AIJPG/zovya-age-slider"
         },
         {
             "id": "genderSlider",
@@ -117,7 +117,7 @@
                     "url": "https://civitai.com/models/89709"
                 }
             ],
-            "url": "https://huggingface.co/ffxvs/zovya-gender-slider"
+            "url": "https://huggingface.co/AIJPG/zovya-gender-slider"
         }
     ],
     "Upscaler": [
@@ -131,7 +131,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/BSRGAN_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/BSRGAN_4x.pth"
             ]
         },
         {
@@ -144,7 +144,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/LSDIRplus_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/LSDIRplus_4x.pth"
             ]
         },
         {
@@ -157,7 +157,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/Nomos8kSC_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/Nomos8kSC_4x.pth"
             ]
         },
         {
@@ -170,7 +170,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/NMKD_Superscale_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/NMKD_Superscale_4x.pth"
             ]
         },
         {
@@ -183,7 +183,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/Remacri_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/Remacri_4x.pth"
             ]
         },
         {
@@ -196,9 +196,9 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/UltraMix_Balanced_4x.pth",
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/UltraMix_Restore_4x.pth",
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/UltraMix_Smooth_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/UltraMix_Balanced_4x.pth",
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/UltraMix_Restore_4x.pth",
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/UltraMix_Smooth_4x.pth"
             ]
         },
         {
@@ -211,7 +211,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/Valar_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/Valar_4x.pth"
             ]
         }
     ],
@@ -226,7 +226,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/vae-collection/resolve/main/blessed2.vae.pt"
+                "https://huggingface.co/AIJPG/vae-collection/resolve/main/blessed2.vae.pt"
             ]
         },
         {
@@ -239,7 +239,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/vae-collection/resolve/main/clearVAE.safetensors"
+                "https://huggingface.co/AIJPG/vae-collection/resolve/main/clearVAE.safetensors"
             ]
         },
         {
@@ -252,7 +252,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/vae-collection/resolve/main/kl-f8-anime2.ckpt"
+                "https://huggingface.co/AIJPG/vae-collection/resolve/main/kl-f8-anime2.ckpt"
             ]
         },
         {
@@ -265,7 +265,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/vae-collection/resolve/main/novelAI.vae.pt"
+                "https://huggingface.co/AIJPG/vae-collection/resolve/main/novelAI.vae.pt"
             ]
         }
     ]

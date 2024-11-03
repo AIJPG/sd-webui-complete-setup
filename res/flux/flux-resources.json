@@ -10,7 +10,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/vae-flux/resolve/main/ae.safetensors"
+                "https://huggingface.co/AIJPG/vae-flux/resolve/main/ae.safetensors"
             ]
         }
     ],
@@ -66,7 +66,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/BSRGAN_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/BSRGAN_4x.pth"
             ]
         },
         {
@@ -79,7 +79,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/LSDIRplus_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/LSDIRplus_4x.pth"
             ]
         },
         {
@@ -92,7 +92,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/Nomos8kSC_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/Nomos8kSC_4x.pth"
             ]
         },
         {
@@ -105,7 +105,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/NMKD_Superscale_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/NMKD_Superscale_4x.pth"
             ]
         },
         {
@@ -118,7 +118,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/Remacri_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/Remacri_4x.pth"
             ]
         },
         {
@@ -131,9 +131,9 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/UltraMix_Balanced_4x.pth",
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/UltraMix_Restore_4x.pth",
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/UltraMix_Smooth_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/UltraMix_Balanced_4x.pth",
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/UltraMix_Restore_4x.pth",
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/UltraMix_Smooth_4x.pth"
             ]
         },
         {
@@ -146,7 +146,7 @@
                 }
             ],
             "url": [
-                "https://huggingface.co/ffxvs/upscaler/resolve/main/Valar_4x.pth"
+                "https://huggingface.co/AIJPG/upscaler/resolve/main/Valar_4x.pth"
             ]
         }
     ]

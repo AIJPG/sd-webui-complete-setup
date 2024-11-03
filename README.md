@@ -3,13 +3,13 @@ Jupyter notebook for Stable Diffusion WebUI and Stable Diffusion WebUI Forge.
 
 ***
 
-### [Major Updates 2024.09.21 Announcement](https://github.com/ffxvs/sd-webui-complete-setup/discussions/15)  
-### [Update 2024.10.15 Announcement](https://github.com/ffxvs/sd-webui-complete-setup/discussions/)  
+### [Major Updates 2024.09.21 Announcement](https://github.com/AIJPG/sd-webui-complete-setup/discussions/15)  
+### [Update 2024.10.15 Announcement](https://github.com/AIJPG/sd-webui-complete-setup/discussions/)  
 
 ***
 
 **Buy Me a Coffee**  
-<a href="https://sociabuzz.com/ffxvs/tribe" target="_blank">
+<a href="https://sociabuzz.com/AIJPG/tribe" target="_blank">
     <img src="https://storage.sociabuzz.com/storage/landingpage/img/sociabuzz-logo.png" height="35px" style="border:0;height:35px;">
 </a>
 
@@ -42,11 +42,11 @@ Jupyter notebook for Stable Diffusion WebUI and Stable Diffusion WebUI Forge.
    * Container's name
      * SD WebUI Auto1111
        ```
-       ffxvs/sd-webui-containers:auto1111-2024.09.21
+       AIJPG/sd-webui-containers:auto1111-2024.09.21
        ```
      * SD WebUI Forge
        ```
-       ffxvs/sd-webui-containers:forge-2024.09.21
+       AIJPG/sd-webui-containers:forge-2024.09.21
        ```
    * Container's command
      ```
@@ -60,7 +60,7 @@ Jupyter notebook for Stable Diffusion WebUI and Stable Diffusion WebUI Forge.
     * `sd15_resource_lists.ipynb` for downloading SD v1.5 models.
     * `sdxl_resource_lists.ipynb` for downloading SDXL models.
     * `flux_resource_lists.ipynb` for downloading FLUX models.
-11. Read [Paperspace Guide](https://github.com/ffxvs/sd-webui-complete-setup/wiki/Paperspace-Guide) and [Resource Lists Guide](https://github.com/ffxvs/sd-webui-complete-setup/wiki/Resource-Lists-Guide) to use the notebooks.
+11. Read [Paperspace Guide](https://github.com/AIJPG/sd-webui-complete-setup/wiki/Paperspace-Guide) and [Resource Lists Guide](https://github.com/AIJPG/sd-webui-complete-setup/wiki/Resource-Lists-Guide) to use the notebooks.
 
 <br>
 
@@ -68,8 +68,8 @@ Jupyter notebook for Stable Diffusion WebUI and Stable Diffusion WebUI Forge.
 1. [Sign up](https://runpod.io?ref=synjcfeg) and add some credit to your [balance](https://www.runpod.io/console/user/billing).
 2. Open one of these template to create a Pod : [SD WebUI Auto1111](https://runpod.io/console/deploy?template=38adx50leu&ref=synjcfeg) / [SD WebUI Forge](https://runpod.io/console/deploy?template=kwef1wl832&ref=synjcfeg)
 3. Make sure the template is : 
-   * SD WebUI Auto1111 : `ffxvs/sd-webui-containers:auto1111-latest`
-   * SD WebUI Forge : `ffxvs/sd-webui-containers:forge-latest`
+   * SD WebUI Auto1111 : `AIJPG/sd-webui-containers:auto1111-latest`
+   * SD WebUI Forge : `AIJPG/sd-webui-containers:forge-latest`
 4. Select _Secure Cloud_ if you want to use _Network Volume (Persistent Storage)_, or Community Cloud if you want to use cheaper GPU.
 5. Choose a GPU with at least 16GB VRAM, for example RTX A4000, RTX A4500, RTX 3090.
 6. Continue and Deploy, then go to My Pods. Wait until the Pod is ready.
@@ -79,7 +79,7 @@ Jupyter notebook for Stable Diffusion WebUI and Stable Diffusion WebUI Forge.
    * `sd15_resource_lists.ipynb` for downloading SD v1.5 models.
    * `sdxl_resource_lists.ipynb` for downloading SDXL models.
    * `flux_resource_lists.ipynb` for downloading FLUX models.
-9. Read [Runpod Guide](https://github.com/ffxvs/sd-webui-complete-setup/wiki/Runpod-Guide) and [Resource Lists Guide](https://github.com/ffxvs/sd-webui-complete-setup/wiki/Resource-Lists-Guide) to use the notebooks.
+9. Read [Runpod Guide](https://github.com/AIJPG/sd-webui-complete-setup/wiki/Runpod-Guide) and [Resource Lists Guide](https://github.com/AIJPG/sd-webui-complete-setup/wiki/Resource-Lists-Guide) to use the notebooks.
 10. You can click **Connect to HTTP Service [Port 3001]** after installing and launching the WebUI.
 11. Stop the Pod if you don't use it anymore. Terminate the pod to delete the Pod and its content. Don't forget to download images you generated.
 
